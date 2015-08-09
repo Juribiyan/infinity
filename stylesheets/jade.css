@@ -421,9 +421,7 @@ div.post.reply.highlighted {
 }
 #quick-reply th .close-btn {
   float: right;
-  margin-right: 2px;
   font-size: 16px;
-  padding: 0;
 }
 div.post.reply div.body a, .fileinfo a {
   color: rgb(55, 201, 153);
@@ -539,4 +537,10 @@ input[type="text"]:focus, input[type="password"]:focus, textarea:focus {
     outline: none;
     box-shadow: inset 0 0 40px rgba(55, 201, 153, 0.32);
     color: rgb(216, 216, 216);
+}
+.dropzone .file-hint {
+  border: 2px dashed rgba(61, 63, 65, 0.52);
+}
+.file-hint:hover, .dropzone.dragover .file-hint {
+      border-color: rgb(44, 51, 61);
 }

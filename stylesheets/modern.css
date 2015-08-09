@@ -419,7 +419,6 @@ div.post.reply.highlighted {
 }
 #quick-reply th .close-btn {
   float: right;
-  margin-right: 2px;
   font-size: 16px;
 }
 div.post.reply div.body a, .fileinfo a {
@@ -454,7 +453,7 @@ div.post p.intro {
 }
 #quick-reply table {
   border-collapse: separate!important;
-  /* background: rgb(29,34,40)!important; */
+  background: rgb(247, 247, 247)!important;
   margin: 0!important;
   width: 100%!important;
   border: 1px #CCC solid;
