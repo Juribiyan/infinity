@@ -492,3 +492,7 @@ header div.subtitle {
   opacity: 1;
   text-shadow: 0 0 9px rgba(0, 0, 0, 1);
 }
+div.pages {
+  box-sizing: border-box;
+  border: none;
+}
