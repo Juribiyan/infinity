@@ -395,18 +395,11 @@ div.post.reply.highlighted {
 .intro a.post-btn, .hide-thread-link, #quick-reply th .close-btn {
   float: left;
   margin-right: 5px;
-  /* background: #aba8a6; */
-  /* border-radius: 4px; */
   color: rgba(0, 0, 0, 0.88);
   font-weight: bold;
   text-decoration: none;
   font-size: 12px;
-  /* width: 18px; */
-  /* height: 16px; */
-  /* line-height: 16px; */
-  /* text-align: center; */
-  /* vertical-align: middle; */
-  opacity: 0.8;
+  opacity: 0.6;
 }
 .intro a.post-btn:hover, .hide-thread-link:hover, #quick-reply th .close-btn:hover {
   opacity: 1;
